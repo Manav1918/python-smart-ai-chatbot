@@ -1,3 +1,17 @@
+"""
+==================================================================
+🧠 Smart AI Chatbot using Flask & Google Gemini
+------------------------------------------------------------------
+Author  : Manav (CID_Official)
+GitHub  : https://github.com/Manav1918
+YouTube : https://www.youtube.com/@CID_Official
+Project : A free AI chatbot powered by Python Flask and Gemini API
+License : MIT License
+
+Feel free to use, modify, and share with credit.
+==================================================================
+"""
+
 import logging
 from flask import Flask,render_template, request, jsonify
 from gemini_setup import get_gemini_response

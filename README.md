@@ -25,6 +25,9 @@ Welcome to the **Smart AI Chatbot** project – a free and open-source chatbot p
 
 ---
 
+## Screenshot
+[!Screenshot](https://github.com/Manav1918/python-smart-ai-chatbot/blob/main/app_demo.png)
+
 ## 📁 Project Structure
 
 ```
